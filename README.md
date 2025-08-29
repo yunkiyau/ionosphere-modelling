@@ -1,6 +1,6 @@
 # Terrestrial Ionosphere Modelling
 
-This project models the terrestrial ionosphere, an environment that strongly influences modern satellite communication systems. The analysis uses electron density profiles from ESA’s SPENVIS portal and compares them with a hydrogen 2s orbital probability model. The goal is to study the structure of the ionosphere and see how well this atomic orbital function can approximate real ionospheric data. This was my second project under the supervision of Prof. Iver Cairns (USYD) as part of the Physics Special Studies Program at USYD.
+This project models the terrestrial ionosphere, an environment that strongly influences modern satellite communication systems. The analysis uses electron density profiles from ESA’s SPENVIS portal and compares them with the hydrogen 2s orbital probability equation. The goal is to study the structure of the ionosphere and see how well this atomic orbital function can approximate real ionospheric data. This was my second project under the supervision of Prof. Iver Cairns (USYD) as part of the Physics Special Studies Program at USYD.
 
 The **electron density** is the key property of interest, and the notebook is divided into two main sections:
 
